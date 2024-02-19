@@ -1,0 +1,25 @@
+* {
+background-color: black;
+color: white;
+}
+
+h1 {
+    font-size: 20px;
+}
+p{
+    font-size: 12px;
+    color: green;
+}
+div.class1{
+    width: 200px;
+    height: 130px;
+    border-style: dotted;
+    border-width: 2px;
+    }
+
+ol{
+list-style-type:upper-alpha;
+}
+ul{
+    list-style-type: square;
+}
