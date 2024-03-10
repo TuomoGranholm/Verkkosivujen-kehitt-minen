@@ -31,7 +31,7 @@ div a {
 }
 
 .wrapper >div {
-    flex:;
+    flex:0;
     padding: 20px;
  }
 
@@ -83,8 +83,9 @@ body{
 }
 
 section {
-        float: right;
         width: 70%;
         padding: 10px;
-        margin-bottom: 50px;
+        margin: 20px;
+        float: right;
+        
 }
